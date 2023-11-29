@@ -13,18 +13,29 @@ This project is an example template for README.md files in GitHub projects. GitH
   * [Highlights](#highlights)
   * [Environment URL's](#environment-urls)
 
- ### Highlights
- ### Environment URLs
+  ### Highlights
+  ### Environment URLs
 
 # Application Instalation
-  * Pre-requisites
+  * [Pre-requisites](#pre-requisites)
   * Building locally
-    
+
+  ### Pre-requisites
+  ### Building locally
+  
 # Application Execution
   * Pre-requisites
   * Running locally
+
+  ### Pre-requisites
+  ### Running locally
+
     
 # Application Testing
   * Pre-requieites
   * Automated Tests
   * Manual Tests
+
+  ### Pre-requieites
+  ### Automated Tests
+  ### Manual Tests
