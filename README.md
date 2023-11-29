@@ -14,7 +14,7 @@ This project is an example template for README.md files in GitHub projects. GitH
     
 # Application Usage
   * [Highlights](#highlights)
-  * [Environment URL's](#environment-url-s)
+  * [Environment URL's](#environment-url's)
 
  ### Highlights
  ### Environment URL's
