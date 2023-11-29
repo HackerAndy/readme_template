@@ -4,13 +4,10 @@
 This project is an example template for README.md files in GitHub projects. GitHub readme files should contain enough information at first glance that a person (maybee even your future self) can quickly understand the purpose of the project. In this about section, include a HIGH level description. Keep it short... reading be tough :cold_sweat:.
 
 # Table of Contents
-  * Project/Application Usage
-    * Application Highlights
-  * Installing the project
-    * Pre-requisites
-    * Building the code locally
-  * Running the Project/Application
-  * Application Testing
+  * [Application Usage](#application-usage)
+  * [Application Instalation](#application-instalation)
+  * [Application Execution](#application-execution)
+  * [Application Testing](#application-testing)
     
 # Application Usage
   * [Highlights](#highlights)
